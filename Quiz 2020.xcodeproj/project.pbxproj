@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B1682EFF274434FA009CAB5C /* Screenshots in Resources */ = {isa = PBXBuildFile; fileRef = B1682EFE274434FA009CAB5C /* Screenshots */; };
 		B1D03B7E271E02D3008D7A3F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D03B7D271E02D3008D7A3F /* AppDelegate.swift */; };
 		B1D03B80271E02D3008D7A3F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D03B7F271E02D3008D7A3F /* SceneDelegate.swift */; };
 		B1D03B82271E02D3008D7A3F /* WelcomwViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D03B81271E02D3008D7A3F /* WelcomwViewController.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B1682EFE274434FA009CAB5C /* Screenshots */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Screenshots; sourceTree = "<group>"; };
 		B1D03B7A271E02D3008D7A3F /* Quiz 2020.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quiz 2020.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1D03B7D271E02D3008D7A3F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B1D03B7F271E02D3008D7A3F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 			children = (
 				B1D03B982721E5E7008D7A3F /* App */,
 				B1D03B962721E566008D7A3F /* Models */,
+				B1682EFE274434FA009CAB5C /* Screenshots */,
 				B1D03B972721E594008D7A3F /* View */,
 				B1D03B93271F5650008D7A3F /* ViewControllers */,
 			);
@@ -175,6 +178,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1682EFF274434FA009CAB5C /* Screenshots in Resources */,
 				B1D03B8A271E02D7008D7A3F /* LaunchScreen.storyboard in Resources */,
 				B1D03B87271E02D7008D7A3F /* Assets.xcassets in Resources */,
 				B1D03B85271E02D3008D7A3F /* Main.storyboard in Resources */,
